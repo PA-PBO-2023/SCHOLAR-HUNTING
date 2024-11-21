@@ -8,9 +8,9 @@
 - 👤Muhammad Khairu Fadilah (2309116025)
 
 ## 📌DAFTAR ISI
-+ [Activity Diagram](https://github.com/PA-PBO-2023/Beasiswa_Hunt/blob/main/README.md#activity-diagram)
-+ [Diagram User](https://github.com/PA-PBO-2023/Beasiswa_Hunt/blob/main/README.md#usecase-diagram)
-+ [Flowchart](https://github.com/PA-PBO-2023/Beasiswa_Hunt/blob/main/README.md#flowchart)
++ [ACTIVITY DIAGRAM](https://github.com/PA-PBO-2023/Beasiswa_Hunt/blob/main/README.md#activity-diagram)
++ [DIAGRAM USER](https://github.com/PA-PBO-2023/Beasiswa_Hunt/blob/main/README.md#usecase-diagram)
++ [FLOWCHART](https://github.com/PA-PBO-2023/Beasiswa_Hunt/blob/main/README.md#flowchart)
 + [ERD](https://github.com/PA-PBO-2023/Beasiswa_Hunt/blob/main/README.md#erd)
 + [TAMPILAN APLIKASI](https://github.com/PA-PBO-2023/Beasiswa_Hunt/blob/main/README.md#tampilan-aplikasi-beasiswa)
 
