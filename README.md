@@ -56,7 +56,8 @@ Untuk Admin
 
 
 #### *Diagram User*
-![acti user](https://github.com/user-attachments/assets/a5adccbb-91c6-4fc4-8869-c09387f67b44)
+![acti user](https://github.com/user-attachments/assets/2d848dd5-1772-40cd-81ca-e686f3b8aec4)
+
 
 
 Untuk User
@@ -72,7 +73,8 @@ Untuk User
 ---
 ### 📉FLOWCHART
 #### *Login*
-![PADBD-Login_Regist](https://github.com/user-attachments/assets/385f0486-0eff-4c6f-961a-259ebd9668e9)
+![PADBD-Login_Regist](https://github.com/user-attachments/assets/d3ed25b7-169f-46ce-b93f-a0c97c4d5721)
+
 
 
 - Login: Pengguna memasukkan username dan password untuk mengakses sistem.
@@ -80,7 +82,8 @@ Untuk User
 
 
 #### *Menu Admin*
-![PADBD-Menu Admin](https://github.com/user-attachments/assets/810cb5c0-0946-4be9-991e-718bf8bbcb4b)
+![PADBD-Menu Admin](https://github.com/user-attachments/assets/c27414a6-018e-46aa-96b6-1b4269dc1ce7)
+
 
 
 Admin memiliki akses penuh untuk mengelola data beasiswa melalui fitur berikut:
@@ -93,7 +96,8 @@ Admin memiliki akses penuh untuk mengelola data beasiswa melalui fitur berikut:
 
 
 #### *Menu User*
-![PADBD-Menu Siswa_Mahasiswa](https://github.com/user-attachments/assets/c2fd3fbb-1308-4356-a722-59117b36598f)
+![PADBD-Menu Siswa_Mahasiswa](https://github.com/user-attachments/assets/67debd6c-385e-48ac-a520-81ea9c299e56)
+
 
 
 - Read: Menampilkan daftar beasiswa yang tersedia.
